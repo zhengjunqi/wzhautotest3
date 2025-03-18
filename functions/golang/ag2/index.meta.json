@@ -1,0 +1,16 @@
+{
+  "apiID": "package_70e249__c__function_aadh3eywyomly",
+  "apiName": "ag2",
+  "label": {
+    "zh_CN": "ag2",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": true,
+  "frontendSDKInvokable": false,
+  "input": [],
+  "output": []
+}
